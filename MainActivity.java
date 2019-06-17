@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         btnEdit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent jumpTo = new Intent(MainActivity.this, DbInsert.class);
+                Intent jumpTo = new Intent(MainActivity.this, DBInsert.class);
                 startActivity(jumpTo);
             }
         });
