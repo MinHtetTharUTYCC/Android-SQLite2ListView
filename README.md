@@ -9,5 +9,5 @@ This git offers getting started code for developer who want to develp android ap
 
 
 ## Credits
-[1] https://www.tutlane.com/tutorial/android/android-sqlite-listview-with-examples
+[1] https://www.tutlane.com/tutorial/android/android-sqlite-listview-with-examples  
 [2] https://guides.codepath.com/android/Populating-a-ListView-with-a-CursorAdapter#defining-our-table 
